@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "highlight.js": "9.18.1",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "react-highlight.js": "1.0.7"
+  },
+  "devDependencies": {
+    "shadow-cljs": "2.9.0",
+    "vertx3-eventbus-client": "3.9.0",
+    "sockjs-client": "1.4.0"
+  }
+}
